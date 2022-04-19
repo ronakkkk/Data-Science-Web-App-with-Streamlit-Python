@@ -2,7 +2,7 @@
 
 Dataset: [Motor Vehicle Crashes - Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 "Dataset")
 
-Run: streamlit run app.py
+Run(cmd): streamlit run app.py
 
 Output ('web-app screenshot'):
 
