@@ -4,7 +4,7 @@ import numpy as np
 import pydeck as pdk
 import plotly.express as pe
 data_file = (
-"/home/rhyme/Desktop/Project/Motor_Vehicle_Collisions_-_Crashes.csv"
+"Motor_Vehicle_Collisions_-_Crashes.csv"
 )
 
 st.title("Motor Vehicle Collision in New York")
